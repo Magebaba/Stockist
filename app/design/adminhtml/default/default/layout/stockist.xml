@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <stockist_adminhtml_stockist_index>
+        <reference name="content">
+            <block type="stockist/adminhtml_stockist" name="stockist" />
+        </reference>
+    </stockist_adminhtml_stockist_index>
+</layout>
